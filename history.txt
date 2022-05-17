@@ -1,0 +1,157 @@
+    1  git --version
+    2  git --version
+    3  git config --global core.editor "code --wait"
+    4  git config --global -e
+    5  git config --global core.autocrlf true
+    6  git config --help
+    7  git config --help
+    8  mkdir one
+    9  cd one
+   10  rmdir one
+   11  cd one
+   12  cd ..
+   13  rmdir one
+   14  git --version
+   15  clear
+   16  git init
+   17  touch one.txt
+   18  git status
+   19  git add one.txt
+   20  git status
+   21  clear
+   22  git status
+   23  git rm --cached one.txt
+   24  git add .
+   25  rm 'one.txt'
+   26  clear
+   27  vi one.txt
+   28   git status
+   29  git diff
+   30  git commit one.txt -m'one.text file added and written some txt'
+   31  clear
+   32  git log
+   33  clear
+   34  git init
+   35  git add .
+   36  git commit -m "first commit"
+   37  cd ..
+   38  git commit -m "first commit"
+   39  git config --global user.email "allwin.josephrajan@comoin.co" 
+   40  git config --local user.name "AllwinBenhail"
+   41  git config --local user.name "Bansh-qwert"
+   42  git config --list
+   43  git commit -m "First commit"
+   44  clear
+   45  cd 
+   46  cd Desktop
+   47  cd  'Git Config'/
+   48  cd
+   49  cd d
+   50  cd d
+   51  cd Desktop
+   52  cd d
+   53  git init
+   54  cd Documents/Git
+   55  cd 'Git Config'/
+   56  ls-a
+   57  git config user.name "AllwinBenhail"
+   58  cd Bansh-qwert/
+   59  touch index.html
+   60  touch app.js
+   61  git init
+   62  git config --global user.name 'AllwinBenhail'
+   63   git config --global user.email 'allwin.josephrajan@comorin.co'
+   64  git config --list
+   65  w
+   66  clear
+   67  git add index.html
+   68  git status
+   69  git rm --cached index.html
+   70  git status
+   71  git commit
+   72  git add
+   73  git add .
+   74  git commit
+   75  git status
+   76  clear
+   77  git status
+   78  git commit .m "initial commit"
+   79  git commit -m "initial commit"
+   80  git status
+   81  git commit
+   82  clear
+   83  cd desktop
+   84  git
+   85  desktop
+   86  ls
+   87  mkdir project
+   88  git init
+   89  ls
+   90  ls -a
+   91  ls .git
+   92  touch names.txt
+   93  git status
+   94  git status
+   95  git add names.txt
+   96  git status
+   97  git commit -m "names.txt file added"
+   98  git status
+   99   vi
+  100  vi names.txt
+  101  cat names.txt
+  102  git status
+  103  git add .
+  104  git status
+  105  git restore --staged names.txt
+  106  git status
+  107  git add names.txt
+  108  git status
+  109  git commit -m "names.txt files modified"
+  110  git log
+  111  rm -rf names.txt
+  112  git status
+  113  git add .
+  114  git commit -m "names.txt file deleted"
+  115  git log
+  116  git add .
+  117  git status
+  118  touch surname.txt
+  119  git add .
+  120  git atatus
+  121  git status
+  122  vi surnmae.txt
+  123  touch house.txt
+  124  git add .
+  125  git status
+  126  git stash
+  127  git status
+  128  git log
+  129  git stash pop
+  130  git add .
+  131  git status
+  132  git stash
+  133  git stash clear
+  134  clear
+  135  git remote add origin https://github.com/AllwinBenhail/Gomu--Gomu.git
+  136  git remote -v
+  137  git push origin master
+  138  clear
+  139  mkdir sing
+  140  git init
+  141  ls .git
+  142  touch big.txt
+  143  git status
+  144  git add big.txt
+  145  git status
+  146  git commit -m"big.txt file added"
+  147  git status
+  148  vi name.txt
+  149  git add
+  150  git status
+  151  git commit -m"names.txt file modified a"
+  152  git add name.txt
+  153  git status
+  154  git log
+  155  git remote add origin https://github.com/AllwinBenhail/Bad-master.git
+  156  history
+  157  history > history.txt
